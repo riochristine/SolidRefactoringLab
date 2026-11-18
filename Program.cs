@@ -2,7 +2,6 @@
 
 namespace SolidRefactoringLab
 {
-    // THIS CLASS VIOLATES SRP AND OCP
     public interface IReportFormatter
     {
         void FormatReport();
